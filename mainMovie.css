@@ -1,0 +1,34 @@
+@char-set "utf-8";
+
+body {
+	background: #804000;
+	font: Times New Roman, Times, serif;
+	color: #ffcc00;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font-size: 24px;
+}
+p {
+	font-size: 16px;
+}
+section {
+	float: left;
+	position: relative;
+	padding: 0 100px 100px 16px;
+	margin-bottom: 10px;
+	border-right: 1px solid #7f7f7f;
+	width: 600px;
+}
+aside {
+	float: left;
+	margin: 16px;
+	width: 300px;
+	padding: 0 32px;
+	position: relative;
+}
+aside p {
+	font-size: 20px;
+}
