@@ -92,6 +92,12 @@ body {
 				width: 450px;
 				margin-bottom: 20px;
 			}
+			aside#hobbies iframe {
+				padding-bottom: 465px;
+			}
+			aside#hobbies iframe#top {
+				padding-top: 45px;
+			}
 			footer#pageFooter {
 				clear: both;
 				border-top: 2px solid #7f7f7f;
