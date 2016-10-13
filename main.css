@@ -67,8 +67,12 @@ body {
 				margin-bottom: 10px;
 				border-right: 1px solid #7f7f7f;
 			}
+			section#content h1#contentHeader {
+				color: BurlyWood;
+				font-size: 50px;
+			}
 			section#content h1 {
-				font-size: 43px;
+				font-size: 40px;
 			}
 			section#content h2 {
 				color: #666;
